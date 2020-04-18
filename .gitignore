@@ -1,0 +1,6 @@
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+__pycache__/getNews.cpython-38.pyc
+__pycache__/getWeather.cpython-38.pyc
+config.py
+*.pyc
